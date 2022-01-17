@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Vue Admin Template',
+    title: 'shopify',
 
     /**
      * @type {boolean} true | false
